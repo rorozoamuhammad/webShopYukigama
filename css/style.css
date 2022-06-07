@@ -498,6 +498,9 @@ footer a {
     }
 }
 @media screen and (max-width: 576px) {
+    body {
+        overflow-x: none;
+    }
     nav {
         position: static;
     }
